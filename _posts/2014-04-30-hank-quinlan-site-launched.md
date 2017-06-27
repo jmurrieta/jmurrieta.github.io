@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Holy Fuck"
+date: 2017-06-27
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Hello! If you're reading this, that means my website is running. Hooray! Still got a lot to do, but I'll be adjusting stuff as I go. Meanwhile, check me out on my social media! I am on there often. 
